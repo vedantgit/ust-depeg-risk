@@ -1,3 +1,2 @@
-# ust-depeg-risk
-Both the files are same.
-Just the format is different
+# Ust-depeg-risk
+THIS RESEARCH WAS WINNER OF NEXUS-MUTUAL HACKATHON
